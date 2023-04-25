@@ -1,0 +1,6 @@
+1682267861680	Encapsulate field 'dataCadastro'
+1682267869314	Encapsulate field 'categoria'
+1682269785842	Encapsulate field 'nome'
+1682270182996	Copy compilation unit
+1682270275425	Rename local variable 'dao'
+1682453434951	Extract method 'cadastrarProduto'
