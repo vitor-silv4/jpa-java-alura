@@ -4,3 +4,10 @@
 1682270182996	Copy compilation unit
 1682270275425	Rename local variable 'dao'
 1682453434951	Extract method 'cadastrarProduto'
+1682586350472	Copy compilation unit
+1682590425212	Copy compilation unit
+1682590842856	Copy compilation unit
+1682634029221	Encapsulate field 'dadosPessoais'
+1682675045474	Encapsulate field 'itens'
+1682712652178	Copy compilation unit
+1682712734720	Rename field 'autor'
